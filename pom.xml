@@ -20,6 +20,18 @@
                <artifactId>joda-time</artifactId>
                <version>2.2</version>
            </dependency>
+
+           <dependency>
+               <groupId>org.apache.struts</groupId>
+               <artifactId>struts2-core</artifactId>
+               <version>2.3.15.3</version>
+           </dependency>
+
+           <dependency>
+               <groupId>com.thoughtworks.xstream</groupId>
+               <artifactId>xstream</artifactId>
+               <version>1.4.6</version>
+           </dependency>
        </dependencies>
        <!-- end::joda[] -->
        
